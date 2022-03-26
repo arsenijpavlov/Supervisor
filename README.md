@@ -1,0 +1,1 @@
+#Диспетчер процессов на основе SRT (shortest remaining time)
